@@ -12,7 +12,7 @@ public class Teste {
 		int selection;
 		String name = "";
 		ArrayList<Account> accounts = new ArrayList<>();
-		
+		//sim
 		do {
 			System.out.println("	BANK\n");
 			System.out.println("[1] New Account");
